@@ -1,6 +1,6 @@
 # Hi there, I'm Mayank Vishwakarma! 👋
 
-🌟 Welcome to my digital workspace! 🌍  
+🌟 **Welcome to my digital workspace!** 🌍  
 As a passionate developer with a strong interest in backend systems, web development, and scalable applications, I love building impactful projects and continuously exploring modern technologies. Here's a glimpse into my coding journey!
 
 ---
